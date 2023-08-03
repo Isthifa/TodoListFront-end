@@ -1,3 +1,25 @@
+# Snapshots
+
+![image](https://github.com/Isthifa/TodoListFront-end/assets/87200953/3b019360-1bf7-47f7-b61b-056e429c845f)
+
+![image](https://github.com/Isthifa/TodoListFront-end/assets/87200953/b080970f-ec18-4aaf-8c4b-e279ab8e7481)
+
+![image](https://github.com/Isthifa/TodoListFront-end/assets/87200953/bd53637d-5388-4e03-b454-815b37227500)
+
+![image](https://github.com/Isthifa/TodoListFront-end/assets/87200953/a191725a-39f5-4844-8e7d-ecd7e0c965dc)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
